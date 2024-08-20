@@ -227,3 +227,16 @@
     transform: rotate(0deg);
   }
 }
+
+.mainnav ul {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.mainnav ul li {
+  padding: 20px;
+  margin: 0 24px;
+  list-style: none;
+  font-weight: bold;
+}
