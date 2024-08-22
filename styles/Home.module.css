@@ -1,9 +1,9 @@
 .main {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: top;
   align-items: center;
-  padding: 6rem;
+  padding: 3rem;
   min-height: 100vh;
 }
 
@@ -243,4 +243,9 @@
 
 .con{
   background: red;
+}
+
+.myImage {
+  border-radius: 10px;
+  margin: 10px;
 }
