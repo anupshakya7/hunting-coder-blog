@@ -1,0 +1,15 @@
+.latest_blogs{
+    padding:4rem;
+}
+
+.blogTitle {
+  display: flex;
+  justify-content: center;
+}
+
+.blogItem {
+  border-radius: 10px;
+  padding: 20px;
+  border: 1px solid grey;
+  margin: 10px;
+}
