@@ -2,6 +2,8 @@ import React from "react";
 import styles from "../styles/Blog.module.css";
 import Link from "next/link";
 
+// Step 1: Collect all the files from blogdata directory
+// Step 2: Iterate through them and Display them
 const blog = () => {
   return (
     <div className={styles.latest_blogs}>
